@@ -1,0 +1,6 @@
+function [Iden,Magic] = funk(m)
+
+Iden=eye(m);
+Magic=magic(m);
+
+end
