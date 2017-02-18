@@ -1,3 +1,3 @@
 # ML-Projects
 Fundamental Machine Learning Algorithms and analyis techniques implemented in octave
-Winter 2016
+Winter 2016 consolidated files
